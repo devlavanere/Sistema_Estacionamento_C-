@@ -1,0 +1,14 @@
+C:\projetos\introducao_dotnet\SistemaParaEstacionamento\bin\Debug\net8.0\SistemaParaEstacionamento.exe
+C:\projetos\introducao_dotnet\SistemaParaEstacionamento\bin\Debug\net8.0\SistemaParaEstacionamento.deps.json
+C:\projetos\introducao_dotnet\SistemaParaEstacionamento\bin\Debug\net8.0\SistemaParaEstacionamento.runtimeconfig.json
+C:\projetos\introducao_dotnet\SistemaParaEstacionamento\bin\Debug\net8.0\SistemaParaEstacionamento.dll
+C:\projetos\introducao_dotnet\SistemaParaEstacionamento\bin\Debug\net8.0\SistemaParaEstacionamento.pdb
+C:\projetos\introducao_dotnet\SistemaParaEstacionamento\obj\Debug\net8.0\SistemaParaEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\introducao_dotnet\SistemaParaEstacionamento\obj\Debug\net8.0\SistemaParaEstacionamento.AssemblyInfoInputs.cache
+C:\projetos\introducao_dotnet\SistemaParaEstacionamento\obj\Debug\net8.0\SistemaParaEstacionamento.AssemblyInfo.cs
+C:\projetos\introducao_dotnet\SistemaParaEstacionamento\obj\Debug\net8.0\SistemaParaEstacionamento.csproj.CoreCompileInputs.cache
+C:\projetos\introducao_dotnet\SistemaParaEstacionamento\obj\Debug\net8.0\SistemaParaEstacionamento.dll
+C:\projetos\introducao_dotnet\SistemaParaEstacionamento\obj\Debug\net8.0\refint\SistemaParaEstacionamento.dll
+C:\projetos\introducao_dotnet\SistemaParaEstacionamento\obj\Debug\net8.0\SistemaParaEstacionamento.pdb
+C:\projetos\introducao_dotnet\SistemaParaEstacionamento\obj\Debug\net8.0\SistemaParaEstacionamento.genruntimeconfig.cache
+C:\projetos\introducao_dotnet\SistemaParaEstacionamento\obj\Debug\net8.0\ref\SistemaParaEstacionamento.dll
